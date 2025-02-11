@@ -7,6 +7,7 @@
   <br>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 </div>
+<br>
 
 ![smg0218's GitHub stats](https://github-readme-stats.vercel.app/api?username=smg0218)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smg0218&layout=compact)
